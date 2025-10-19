@@ -1,3 +1,5 @@
+package Practice;
+
 import java.util.Scanner;
 public class Copy_Array_Elements {
     public static void main(String[] args){
