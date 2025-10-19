@@ -1,3 +1,5 @@
+package Practice;
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class Ascending_Array {
@@ -11,7 +13,7 @@ public class Ascending_Array {
             arr[i] = sc.nextInt();
         }
         Arrays.sort(arr);
-        System.out.println("Array sorted in ascending order");
+        System.out.println("Practice.Array sorted in ascending order");
         for(int i=0; i<n; i++){
             System.out.print(arr[i]+" ");
         }
