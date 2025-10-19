@@ -1,3 +1,5 @@
+package Practice;
+
 public class AddCharInt {
     public static void main(String[] args) {
         char ch = 'A';  // ASCII value of 'A' = 65

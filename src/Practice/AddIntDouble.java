@@ -1,3 +1,5 @@
+package Practice;
+
 public class AddIntDouble {
     public static void main(String[] args) {
         int a = 5;
