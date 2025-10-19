@@ -1,3 +1,5 @@
+package Practice;
+
 import java.util.Scanner;
 public class fabonacci_series {
     public static void main(String[] args) {
