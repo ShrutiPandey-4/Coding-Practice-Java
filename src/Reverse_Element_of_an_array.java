@@ -9,7 +9,7 @@ public class Reverse_Element_of_an_array {
         for(int i =0; i<n; i++){
             arr[i] = sc.nextInt();
         }
-        System.out.println("Array in reverse order: ");
+        System.out.println("Practice.Array in reverse order: ");
         for(int i = n-1;i>=0;i--){
             System.out.println(arr[i] + " ");
         }
