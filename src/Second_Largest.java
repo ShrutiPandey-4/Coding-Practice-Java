@@ -7,7 +7,7 @@ public class Second_Largest {
         int n = sc.nextInt();
 
         if(n<2){
-            System.out.println("Array altest must have 2 elements");
+            System.out.println("Practice.Array altest must have 2 elements");
             return;
         }
 
