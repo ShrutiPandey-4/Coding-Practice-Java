@@ -1,3 +1,4 @@
+package Function_Methods;
 
 import java.util.Scanner;
 public class slection_so {
