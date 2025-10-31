@@ -1,3 +1,5 @@
+package Function_Methods;
+
 import java.util.Scanner;
 public class Sum_natutal_no_loop {
     public static void main(String[] args) {
