@@ -1,3 +1,5 @@
+package Function_Methods;
+
 public class MaxMinDiff {
     public static void main(String[] args) {
         int[] arr = {3, 7, 2, 9, 5};
