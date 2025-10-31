@@ -1,3 +1,5 @@
+package Function_Methods;
+
 import java.util.Scanner;
 
 public class SimpleInterest {
