@@ -1,3 +1,5 @@
+package Function_Methods;
+
 public class MathFunctions {
     public static void main(String[] args) {
         double base = 3;
